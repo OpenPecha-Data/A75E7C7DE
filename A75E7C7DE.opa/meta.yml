@@ -1,0 +1,19 @@
+id: A75E7C7DE
+title: Entrusting Activity
+type: translation
+pechas:
+- ID8493588
+- IED0B42F2
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:50:46.998291
+  last_modified_at: 2023-01-04 12:50:46.998313
+  collections:
+  - Khenchen Jigme Phuntsok Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  ID8493588/D421: CF4C
+  IED0B42F2/2D95: CF4C
